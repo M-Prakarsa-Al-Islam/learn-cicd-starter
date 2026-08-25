@@ -2,7 +2,10 @@
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
-"prakarsa version of Boot.dev's Notely app."
+prakarsa version of Boot.dev's Notely app.
+
+![ci result](https://github.com/M-Prakarsa-Al-Islam/learn-cicd-starter/actions/ci.yml/badge.sv)
+
 
 ## Local Development
 

@@ -4,7 +4,7 @@ This repo contains the starter code for the "Notely" application for the "Learn 
 
 prakarsa version of Boot.dev's Notely app.
 
-![ci result](https://github.com/M-Prakarsa-Al-Islam/learn-cicd-starter/actions/ci.yml/badge.sv)
+![ci result](https://github.com/M-Prakarsa-Al-Islam/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 
 ## Local Development
